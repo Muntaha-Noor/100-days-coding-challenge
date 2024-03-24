@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // Q16 Answer
 let guests = ["Warda", "Musfirah", "Nazia"];
 console.log("Great news! I found a bigger dinner table!");
