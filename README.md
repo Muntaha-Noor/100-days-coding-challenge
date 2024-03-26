@@ -1,2 +1,2 @@
 # 100-days-coding-challenge
-100 days coding challenge journey.
+Experience a 100-day coding challenge journey, where skills are sharpened daily!
