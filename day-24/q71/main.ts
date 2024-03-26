@@ -1,8 +1,8 @@
 // Example 1: Using let
 let firstName: string = "Muntaha";
 console.log(firstName);
-firstName = "Muntaha Noor";
-console.log(firstName);
+fullName = "Muntaha Noor";
+console.log(fullName);
 
 // Example 2: Using const
 const y: number = 7;
