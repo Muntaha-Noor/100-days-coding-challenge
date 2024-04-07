@@ -4,4 +4,4 @@ function isDivisibleBy2And3(number: number): boolean {
 
 console.log(isDivisibleBy2And3(18)); // Output: true
 console.log(isDivisibleBy2And3(16)); // Output: false
-console.log(isDivisibleBy2And3(21));
+console.log(isDivisibleBy2And3(21)); // Output: false
