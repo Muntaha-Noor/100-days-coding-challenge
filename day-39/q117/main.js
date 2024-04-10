@@ -20,5 +20,8 @@ function printGradeMessage(grade) {
             console.log("Invalid Grade");
     }
 }
-printGradeMessage("B"); // Well done !
-printGradeMessage("D"); // Satisfactory !
+printGradeMessage("B");
+printGradeMessage("D"); 
+
+ // Well done !
+ // Satisfactory !
