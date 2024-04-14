@@ -7,6 +7,6 @@ const person = {
         console.log("My name is ", this.fullName);
     },
 };
-person.introduceTraditional(); // Output: My name is Alice Johnson
-// person.introduceArrow(); // Output: My name is undefined (outer scop's full name)
+person.introduceTraditional();
+person.introduceArrow();
 export {};
