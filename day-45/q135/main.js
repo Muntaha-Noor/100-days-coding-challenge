@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // JavaScript object
 const person = {
     name: "Jhon",
@@ -8,10 +9,3 @@ const person = {
 // Convert JavaScript object to formatted JSONs string with proper indevtation
 const jsonString = JSON.stringify(person, null, 2);
 console.log(jsonString);
-/* Output:
-{
-    "name": "Jhon",
-    "age": 30,
-    "city": "New York"
-}
-*/

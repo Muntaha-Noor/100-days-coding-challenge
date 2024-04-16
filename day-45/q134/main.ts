@@ -5,3 +5,5 @@ const jsonString = '{"name": "John", "age": 30, "city": "New York"}';
 const person = JSON.parse(jsonString);
 
 console.log(person);
+
+export {}
